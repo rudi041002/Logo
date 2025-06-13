@@ -1,0 +1,29 @@
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" group-title="Vision+ Channels" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGwwHL6hc82aCuvzkpg3fCZg1Ich8rix_uA&s" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-m.png",GTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV.id" group-title="Vision+ Channels" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGwwHL6hc82aCuvzkpg3fCZg1Ich8rix_uA&s" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png",MNCTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" group-title="Vision+ Channels" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiGwwHL6hc82aCuvzkpg3fCZg1Ich8rix_uA&s" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-m.png",RCTI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#EXTINF:-1 tvg-id="Kids TV.id" tvg-name="Kids TV.id tvg-logo="https://raw.githubusercontent.com/rudi041002/Logo/refs/heads/main/Kids%20TV.png" group-title="Vision+ Channels",KidsTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+https://fta3-cdn-flr.visionplus.id/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
